@@ -1,0 +1,10 @@
+{
+    "test_imports": true,
+    "test_dog_classifier_conv": true,
+    "test_synth_classifier": true,
+    "test_netid": true,
+    "test_dbpedia": true,
+    "test_extracredit_dbpedia": false,
+    "test_agn": true,
+    "test_extracredit_agn": false
+}

@@ -1,0 +1,9 @@
+numpy
+matplotlib
+pytest
+sklearn
+gensim
+nltk
+torch
+torchvision
+torchaudio
